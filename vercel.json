@@ -2,7 +2,7 @@
     "redirects": [
       {
         "source": "/(.*)",
-        "destination": "https://remotiamo.notion.site/Paestum-Workation-de802aa474c849e5b6ac7ee42e2695dc",
+        "destination": "https://remotiamo.notion.site/workation",
         "permanent": true
       }
     ]
